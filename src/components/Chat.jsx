@@ -16,7 +16,7 @@ export const Chat = ({ room }) => {
   const [messages, setMessages] = useState([]);
   const [newMessage, setNewMessage] = useState("");
   const messagesRef = collection(db, "messages");
-
+  
   useEffect(() => {
     const queryMessages = query(
       messagesRef,
