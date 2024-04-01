@@ -1,7 +1,9 @@
-Introduction
+# Introduction Chat APP:
 Welcome to our Chat Application! This project is a real-time chat application built using ReactJS, CSS, and Firebase. It enables users to communicate with each other in real-time, making use of Firebase's real-time database capabilities.
 
-Features
+## Deployment Link : https://github.com/subham24092001/ChatApp
+
+## Features
 Real-Time Chat: Enjoy seamless real-time communication with other users.
 Authentication: Securely authenticate users with Firebase Authentication.
 User Presence: Know when other users are online with user presence indicators.
